@@ -1,4 +1,4 @@
-# Conversion Rate Project
+# E-Commerce Conversion Prediction
 
 ## Project Overview
 
